@@ -1,5 +1,5 @@
-# main text of home
-name: Chris Hamlin
+e# main text of home
+name: John Doe
 bio: Integrity, Respect, and Responsibility
 
 # twitter summary info
@@ -17,7 +17,7 @@ resume-external: false
 resume-url: 
 
 url: https://koppl.in/indigo
-# your url: http://chrishamlin98.github.io
+# your url: http://.github.io
 
 permalink: /:title/
 
@@ -42,7 +42,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/chrishamlin98
+github: https://github.com/
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: https://github.com/chrishamlin98
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: chrishamlin98@gmail.com
+email: @gmail.com
 
 #authors:
  #   johndoe:
